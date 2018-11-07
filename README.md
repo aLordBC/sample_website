@@ -1,11 +1,5 @@
-<!DOCTYPE html>
-<html>
-	<head>
-		<title>ReadMe!</title>
-	</head>
+# ReadMe!
+Responsiva
+This project is created for educational purpouses [*HTML*](https://www.learnenough.com/html-tutorial). If you have a chance CLICK it and check it out!.	
 
-	<body>
-		<h1>Responsiva</h1>
-		<p>This project is created for educational purpouses (<strong>HTML</strong>)</p>
-	</body>
-</html>
+
